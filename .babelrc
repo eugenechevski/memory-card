@@ -1,10 +1,11 @@
 {
     "plugins": [
-        "babel-plugin-macros",
+        "macros",
         ["module-resolver", {
             "root": ["./"],
             "alias": {
-                // Custom paths
+                "Components": "src/components",
+                "Helpers": "src/helpers",
             }
         }]
     ],

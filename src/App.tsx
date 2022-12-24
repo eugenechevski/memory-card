@@ -1,8 +1,11 @@
 import React from 'react';
+import CardContainer from "Components/CardContainer";
 
 function App() {
   return (
-    <div></div>
+    <div className='h-full w-full'>
+      <CardContainer></CardContainer>
+    </div>
   );
 }
 
