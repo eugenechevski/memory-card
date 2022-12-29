@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cv-application/static/css/main.b97669bc.css",
-    "main.js": "/cv-application/static/js/main.7485ff5a.js",
-    "index.html": "/cv-application/index.html",
-    "main.b97669bc.css.map": "/cv-application/static/css/main.b97669bc.css.map",
-    "main.7485ff5a.js.map": "/cv-application/static/js/main.7485ff5a.js.map"
+    "main.css": "/memory-card/static/css/main.b97669bc.css",
+    "main.js": "/memory-card/static/js/main.7485ff5a.js",
+    "index.html": "/memory-card/index.html",
+    "main.b97669bc.css.map": "/memory-card/static/css/main.b97669bc.css.map",
+    "main.7485ff5a.js.map": "/memory-card/static/js/main.7485ff5a.js.map"
   },
   "entrypoints": [
     "static/css/main.b97669bc.css",
